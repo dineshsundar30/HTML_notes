@@ -1,0 +1,84 @@
+                          <!--htlm NOTES-->
+commands
+ctrl + forward slash to command and uncommand
+
+<h1>this headr tag can go <h1> to <h6> </h1>
+<p>these html tage takes everything as block </p>
+
+
+old way to mack chanes in bold and italics
+<p><b>This is text that is in bold </b></p>
+<p><i>This is text that is in italics</i></p>
+
+New way to mack chanes in bold and italics
+<p><strong>This is text that is in bold</strong></p>
+<p><em>This is text that is in italics</em></p>
+
+
+
+
+list 
+ordered list  
+
+                       
+<h1>Lists</h1>
+<ol>
+<1i>First Item</li>
+<1i>Second Item</li>
+</ol>
+
+un ordered list 
+<h1>Lists</h1>
+<ul>
+<1i>First Item</li>
+<1i>Second Item</li>
+</ul> 
+
+
+O/P  
+ordered list  
+l. First Item
+2. Second Item
+
+unordered list  
+. First Item
+. Second Item
+
+
+
+nested ordered list
+
+<bodY>
+  <h1>Lists</h1>
+  <ol>
+    <li>ltem One</li>
+    <li>ltem Two</li>
+   <ul>
+      <li>im nested inside</li>
+      <1i>A1so nested!</li>
+	 <ol>
+      <1i><strong>Woah </strong>l'm really nested</li>
+	 </ol>
+     </ul>
+    </ol>
+	
+divs and spans
+<div class="group1">
+....
+</div>
+
+spans
+
+<span>  this is use to group one lnie things</span>
+
+image tag
+<img src="filename.png" alt="" or alt="opps file is missing">
+
+a(anchor) tag - use to refer and attach a new html page
+
+<a href="new.htlm"></a>  or <a href="new.htlm">click me</a>
+we can grap and use out side image or link using thes img and a tag
+<a href="https://www.facebook.com">facebook</a>
+
+to use clickable image
+<a href="https://www.djangoproject.com/"><img src="https://datascientest.com/en/wp-content/uploads/sites/9/2023/05/django1.jpg"></a>
